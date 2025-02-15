@@ -7,7 +7,7 @@ Software Engineer
 I have a strong background in gambling, so I decided to take a chance and do what I love! I have been learning to code since 2021, and I recently graduated from a boot camp at Brainstation, where I became a Full-Stack Javascript Engineer. I am now actively looking for a job that will help me grow faster. I love learning new skills and tools, as well as new languages. I am always willing to "get my hands dirty" with new things.
 
 *   🌍  I'm based in London (UK)
-*   ✉️  You can contact me at [giuggey85@gmail.com](mailto:giuseppevaleriani@outlook.com)
+*   ✉️  You can contact me at [giuseppevaleriani@outlook.com](mailto:giuseppevaleriani@outlook.com)
 *   🧠  I'm learning C#
 *   🤝  I'm open to collaborating on any interesting projects
 *   ⚡  Massive D&D lover 
