@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I have a strong background in gambling and therefore I decided to take a chance and do what I love! I have been learning coding since 2021, and I recently graduated from a boot camp at Brainstation where I became a Full-Stack Javascript Engineer. I am now actively looking for a job that helps me grow faster and faster. I love learning new skills and tools as well as new languages. I am always willing to "get my hands dirty" with new things.
+I have a strong background in gambling, so I decided to take a chance and do what I love! I have been learning to code since 2021, and I recently graduated from a boot camp at Brainstation, where I became a Full-Stack Javascript Engineer. I am now actively looking for a job that will help me grow faster. I love learning new skills and tools, as well as new languages. I am always willing to "get my hands dirty" with new things.
 
 *   🌍  I'm based in London (UK)
 *   ✉️  You can contact me at [giuggey85@gmail.com](mailto:giuseppevaleriani@outlook.com)
